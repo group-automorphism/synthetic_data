@@ -1,4 +1,5 @@
-# synthetic_data
+# Synthetic data for testing feature selection algorithms
+
 The ipynb file contains the code to generate synthetic data for feature selection.
 The synthetic data is inspired by applications in electronics. 
 The datasets can be used to test the performance of feature selection algorithms.
